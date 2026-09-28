@@ -166,6 +166,10 @@ main {
     line-height: 1.5;
 }
 
+.footer p{
+    text-align: center;
+}
+
 @media (max-width: 640px) {
     body {
         padding: 5rem 1rem 0;
