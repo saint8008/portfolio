@@ -96,7 +96,9 @@ main {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
+    text-decoration: none;
     line-height: 1;
+    color: var(--text);
 }
 
 .logo-container img{
