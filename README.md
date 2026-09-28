@@ -8,5 +8,5 @@ File structure is very simplistic:
 ├── index.js
 ├── node_modules/
 ├── package.json
-└── ******
-   └── ******
+└── images
+   └── *.jpg
